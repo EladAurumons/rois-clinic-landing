@@ -81,7 +81,7 @@ const Index = () => {
                   <Heart className="w-8 h-8 text-primary" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">טיפול ומניעה של התקפי לב וטרשת עורקים</h3>
-                <p className="text-muted-foreground">התמחות בטיפול בהתקפי לב ומצבי חירום קרדיולוגיים</p>
+                <p className="text-muted-foreground">התמחות בטיפול ומניעה של טרשת עורקים ושלל גורמי הסיכון (כולסטרול, סכרת, יתר לחץ דם) העלולים לגרום להתקפי לב</p>
               </CardContent>
             </Card>
 
