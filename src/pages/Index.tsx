@@ -56,8 +56,12 @@ const Index = () => {
             <div className="flex justify-center lg:justify-end">
               <div className="relative">
                 <div className="w-80 h-80 bg-gradient-to-br from-primary/10 to-accent/10 rounded-full flex items-center justify-center">
-                  <div className="w-72 h-72 bg-white rounded-full shadow-2xl flex items-center justify-center">
-                    <Heart className="w-32 h-32 text-primary/30" />
+                  <div className="w-72 h-72 bg-white rounded-full shadow-2xl overflow-hidden">
+                    <img 
+                      src="/lovable-uploads/02e0cea8-a143-40ee-80df-92b0f857d300.png"
+                      alt="פרופ' רואי בייגל"
+                      className="w-full h-full object-cover rounded-full"
+                    />
                   </div>
                 </div>
               </div>
