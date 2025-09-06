@@ -80,7 +80,7 @@ const Index = () => {
                 <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Heart className="w-8 h-8 text-primary" />
                 </div>
-                <h3 className="text-xl font-semibold mb-2">טיפול נמרץ לבבי</h3>
+                <h3 className="text-xl font-semibold mb-2">טיפול ומניעה של התקפי לב וטרשת עורקים</h3>
                 <p className="text-muted-foreground">התמחות בטיפול בהתקפי לב ומצבי חירום קרדיולוגיים</p>
               </CardContent>
             </Card>
