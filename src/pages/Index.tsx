@@ -75,7 +75,7 @@ const Index = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-foreground mb-4">תחומי התמחות</h2>
-            <p className="text-lg text-muted-foreground">מגוון רחב של שירותים קרדיולוגיים מתקדמים</p>
+            <p className="text-lg text-muted-foreground">מגוון רחב של שירותים קרדיולוגיים מתקדמים, בין היתר:</p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
