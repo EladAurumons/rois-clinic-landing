@@ -25,13 +25,13 @@ jobs:
           node-version: 20
           cache: npm
 
-      - name: Install deps
+      - name: Install dependencies
         run: npm ci
 
-      - name: Build
+      - name: Build Vite app
         run: npm run build
 
-      - name: Keep custom domain + disable Jekyll
+      - name: Add custom domain + disable Jekyll
         run: |
           echo "profbeigel.com" > dist/CNAME
           echo "" > dist/.nojekyll
