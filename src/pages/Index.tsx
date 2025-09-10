@@ -29,7 +29,7 @@ const Index = () => {
               <h1 className="text-4xl lg:text-5xl font-bold text-foreground mb-6 leading-tight">
                 פרופ' רואי בייגל
               </h1>
-              <p className="text-xl text-primary font-semibold mb-4">
+              <p className="text-xl text-primary font-semibold mb-4 whitespace-nowrap">
                 מנהל המחלקה הקרדיולוגית במרכז הרפואי שיבא – תל השומר
               </p>
               <p className="text-lg text-muted-foreground mb-8">
