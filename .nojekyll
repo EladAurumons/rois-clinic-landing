@@ -1,0 +1,5 @@
+# from your repo
+echo > .nojekyll
+git add .nojekyll
+git commit -m "Add .nojekyll for GitHub Pages"
+git push
